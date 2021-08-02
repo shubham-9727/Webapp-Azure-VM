@@ -18,12 +18,12 @@ To run the code on local device:
 The Flask app will run on http://localhost:3000/ by default.
 
 ## Screenshots
-### App service
+### App Service Azure Portal
 ![Screenshot (App service)](https://user-images.githubusercontent.com/59551550/127821305-a07fda7e-7814-47a9-8682-a39c2046775d.png)
-
+### Calculator on App Service
 ![Screenshot (Calc App service)](https://user-images.githubusercontent.com/59551550/127821573-321c5368-fcc7-4b78-b325-15b407b176a4.png)
-### VM
+### VM Azure Portal
 ![Screenshot (VM)](https://user-images.githubusercontent.com/59551550/127821329-76147029-d2c0-4d11-8507-e6d836281e40.png)
-
+### Calculator on Azure VM
 ![Screenshot (Calc VM)](https://user-images.githubusercontent.com/59551550/127821581-ee2ff603-0bf8-4813-ac2b-43899d6f608d.png)
 
